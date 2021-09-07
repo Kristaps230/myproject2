@@ -1,0 +1,16 @@
+C:\projectother\myproject2\myproject2\bin\Debug\net5.0\myproject2.exe
+C:\projectother\myproject2\myproject2\bin\Debug\net5.0\myproject2.deps.json
+C:\projectother\myproject2\myproject2\bin\Debug\net5.0\myproject2.runtimeconfig.json
+C:\projectother\myproject2\myproject2\bin\Debug\net5.0\myproject2.runtimeconfig.dev.json
+C:\projectother\myproject2\myproject2\bin\Debug\net5.0\myproject2.dll
+C:\projectother\myproject2\myproject2\bin\Debug\net5.0\ref\myproject2.dll
+C:\projectother\myproject2\myproject2\bin\Debug\net5.0\myproject2.pdb
+C:\projectother\myproject2\myproject2\obj\Debug\net5.0\myproject2.csproj.AssemblyReference.cache
+C:\projectother\myproject2\myproject2\obj\Debug\net5.0\myproject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projectother\myproject2\myproject2\obj\Debug\net5.0\myproject2.AssemblyInfoInputs.cache
+C:\projectother\myproject2\myproject2\obj\Debug\net5.0\myproject2.AssemblyInfo.cs
+C:\projectother\myproject2\myproject2\obj\Debug\net5.0\myproject2.csproj.CoreCompileInputs.cache
+C:\projectother\myproject2\myproject2\obj\Debug\net5.0\myproject2.dll
+C:\projectother\myproject2\myproject2\obj\Debug\net5.0\ref\myproject2.dll
+C:\projectother\myproject2\myproject2\obj\Debug\net5.0\myproject2.pdb
+C:\projectother\myproject2\myproject2\obj\Debug\net5.0\myproject2.genruntimeconfig.cache
